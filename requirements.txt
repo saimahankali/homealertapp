@@ -1,0 +1,12 @@
+tensorflow
+streamlit
+bcrypt
+secure-smtplib
+keras
+mtcnn
+matplotlib
+opencv-python
+scikit-learn
+numpy
+pandas
+tqdm
