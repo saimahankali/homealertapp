@@ -4,8 +4,9 @@ keras==2.15.0
 secure-smtplib
 bcrypt
 tqdm
-opencv-python-headless
+opencv-python
 pandas
+numpy
 matplotlib
 mtcnn
 scikit-learn
